@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+    background: #1B244A;
+
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.style1{
+    text-align: center;
+    color: white;
+    margin-bottom: 25px;
+}
+
+span{
+    color: #F94F6D;
+    font-family: 'Cursed Timer ULiL';
+    background-color: #111827;
+    margin-left: 20px;
+    border: 1px solid black;
+    padding: 15px 30px 15px 30px
+    
+}
+
+button{
+    margin-top: 25px;
+    background-color: #1B244A;
+    color:#9AABD8;
+    border: 2px solid #9AABD8;
+}
